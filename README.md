@@ -12,7 +12,7 @@
 * Event Schema - events collection
 * Booking Schema - bookings collection
 
-# ***Imp Learnings ***
+# ***Imp Learnings***
 
 * About jsonwebtokens (JWT) module, how to use tokens for stateless authentication and authorization
 * About authentication and authorize middleware to be used with the help of tokens
